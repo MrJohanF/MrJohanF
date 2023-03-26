@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @MrJohanF
 - 👀 I’m interested in Engineering
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Phyton
 - 📫 How to reach me:
   - hjfernandez@ucompensar.edu.co
-  - https://www.linkedin.com/in/harold-fernandez-0599a01a5/
+  - https://www.linkedin.com/in/mrjohanf/
 
 <!---
 MrJohanF/MrJohanF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
