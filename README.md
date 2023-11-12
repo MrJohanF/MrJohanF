@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Phyton
 - 📫 How to reach me:
+  - johan_harol@icloud.com
   - hjfernandez@ucompensar.edu.co
   - https://www.linkedin.com/in/mrjohanf/
 
